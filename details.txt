@@ -1,0 +1,17 @@
+These are the api endpoints
+/user
+    post
+        required fields
+        username
+        email
+        password
+    get
+
+/books
+    post
+        title
+        author
+        genre
+    get
+    put
+    patch
